@@ -6,6 +6,7 @@ Unzip to a convenient folder for you and run setup.bat. Administrator privileges
 To open the Snipping tool, press Win + Shift + S<br>
 To open the Clipboard history, press Win + V<br>
 upd: To open the emoji picker, press Win + .
+
 Go to Regedit and paste
 ```
 HKEY_CURRENT_USER\Software\Microsoft\Clipboard
